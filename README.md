@@ -217,5 +217,3 @@ Average ratings range approximately from **3.70 to 3.82** across the different s
 
 This project was developed as part of a portfolio focused on **Data Analytics, SQL, Python, and Business Intelligence**.
 
-```
-```
